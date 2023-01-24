@@ -12,7 +12,7 @@
 --------
 
 ### **Table of Contents:**
-- **HOME**
-- **SETUP**
-- **MODS**
-- **GETTING STARTED**
+- **[Home](https://github.com/KAMKEEL/SageSMP/wiki/Home)**
+- **[Setup](https://github.com/KAMKEEL/SageSMP/wiki/Setup)**
+- **[Rules](https://github.com/KAMKEEL/SageSMP/wiki/Rules)**
+- **[Mods](https://github.com/KAMKEEL/SageSMP/wiki/Mods)**
