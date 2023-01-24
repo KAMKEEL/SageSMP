@@ -14,5 +14,6 @@
 ### **Table of Contents:**
 - **[Home](https://github.com/KAMKEEL/SageSMP/wiki/Home)**
 - **[Setup](https://github.com/KAMKEEL/SageSMP/wiki/Setup)**
+    * [How to Update](https://github.com/KAMKEEL/SageSMP/wiki/Setup#update)
 - **[Rules](https://github.com/KAMKEEL/SageSMP/wiki/Rules)**
 - **[Mods](https://github.com/KAMKEEL/SageSMP/wiki/Mods)**
