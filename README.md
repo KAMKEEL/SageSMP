@@ -4,8 +4,15 @@
 
 #### **SageSMP** is a modded survival multiplayer server that is **request-only** (WHITELISTED). For anyone interested in joining all you need to do is ask. The server is designed to be an easy and friendly enviroment that expands upon the original game without going overboard with fancy mods. It has a bunch of new content that can be utilized, both early and endgame. I will frequently post updates to this channel regarding any changes! 
 
+--------
+
+### IP: sagesmp.minecraft.best
+### World Map:  [link](http://sagesmp.minecraft.best:8123/)
+
+--------
 
 ### **Table of Contents:**
-> -  
-> -
-> -
+- **HOME**
+- **SETUP**
+- **MODS**
+- **GETTING STARTED**
