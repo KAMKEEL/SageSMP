@@ -12,8 +12,12 @@
 --------
 
 ### **Table of Contents:**
-- **[Home](https://github.com/KAMKEEL/SageSMP/wiki/Home)**
-- **[Setup](https://github.com/KAMKEEL/SageSMP/wiki/Setup)**
+* **[Setup](https://github.com/KAMKEEL/SageSMP/wiki/Setup)**
     * [How to Update](https://github.com/KAMKEEL/SageSMP/wiki/Setup#update)
-- **[Rules](https://github.com/KAMKEEL/SageSMP/wiki/Rules)**
-- **[Mods](https://github.com/KAMKEEL/SageSMP/wiki/Mods)**
+    * [Mac Installation](https://github.com/KAMKEEL/SageSMP/wiki/Setup#prism-setup---mac)
+* **[Rules](https://github.com/KAMKEEL/SageSMP/wiki/Rules)**
+* **[Mods](https://github.com/KAMKEEL/SageSMP/wiki/Mods)**
+* **[Progression](https://github.com/KAMKEEL/SageSMP/wiki/Progression)**
+    * [Getting Started](https://github.com/KAMKEEL/SageSMP/wiki/Progression#getting-started)
+    * [Gameplay Tips](https://github.com/KAMKEEL/SageSMP/wiki/Progression#improving-gameplay)
+    * [Game Progression](https://github.com/KAMKEEL/SageSMP/wiki/Progression#game-progression)
